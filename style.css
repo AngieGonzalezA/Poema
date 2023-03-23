@@ -1,0 +1,59 @@
+body {
+}
+
+.caja1 {
+  margin:auto;
+  text-align: center;
+  font-family: "Courier New", monospace;
+  font-size: 80%;
+  background-color: rgb(232, 163, 163);
+  width: 600px;
+  height: 150x;
+}
+
+.caja2 {
+  margin:auto;
+  text-align: center;
+  font-family: "Courier New", monospace;
+  font-size: 120%;
+  background-color: white;
+  width: 600px;
+  height: 150x;
+}
+.caja3 {
+  margin:auto;
+  text-align: center;
+  font-family: "Courier New", monospace;
+  font-size: 80%;
+  background-color: rgb(174, 195, 216);
+  width: 600px;
+  height: 150x;
+}
+.caja4 {
+  margin:auto;
+  text-align: center;
+  font-family: "Courier New", monospace;
+  font-size: 80%;
+  background-color: rgb(228, 228, 177);
+  width: 600px;
+  height: 150x;
+}
+.caja5 {
+  margin:auto;
+  text-align: center;
+  font-family: "Courier New", monospace;
+  font-size: 80%;
+  background-color: rgb(191, 233, 208);
+  width: 600px;
+  height: 150x;
+  margin:auto;
+}
+.caja6 {
+  text-align: center;
+  font-family: "Courier New", monospace;
+  font-size: 80%;
+  background-color: rgb(242, 222, 199);
+  width: 600px;
+  height: 150x;
+  margin:auto;
+}
