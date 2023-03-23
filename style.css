@@ -1,7 +1,9 @@
 body {
+  background-image: url("img/Fondo.jpg");
 }
 
 .caja1 {
+  color:white;
   margin:auto;
   text-align: center;
   font-family: "Courier New", monospace;
@@ -57,3 +59,20 @@ body {
   height: 150x;
   margin:auto;
 }
+.boton{
+  margin:auto;
+  width: 199px;
+  padding: 5px 5px;
+  font-size: 15px;
+  cursor: pointer;
+  display:inline-block;
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+m {
+  font-size: 100%;
+  font-family: cursive;
+}
+
